@@ -19,6 +19,7 @@ export default function App() {
       {/* WebXR Canvas */}
       <VRCanvas>
         <XR>
+          {"Asd"}
           {/* 3D scene lighting */}
           <ambientLight intensity={0.5} />
           <pointLight position={[10, 10, 10]} />
